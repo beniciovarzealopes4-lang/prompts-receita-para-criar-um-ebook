@@ -1,1 +1,1 @@
-# prompts-receita-para-criar-um-ebook
+# E-book Redator Full Text - gerado por IA
